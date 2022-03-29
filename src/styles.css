@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  width: 120px;
+  height: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.firstbox,
+.lastbox {
+  margin: 20px;
+}
+
+.row1 {
+  margin: 10px;
+}
+
+.row2 {
+  margin: 20px;
+}
+
+.row12 {
+  margin: 10px;
+  margin-right: 30px;
+}
